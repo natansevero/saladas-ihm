@@ -1,0 +1,81 @@
+body, html {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  background-color: #f4f4f4;
+}
+
+/* Sobrescrita do css do bootstrap */
+.col-xs-12, .col-md-3 {
+  padding: 0 !important;
+}
+
+.menu {
+  background-color: #dd5454;
+  font-weight: bold;
+  color: white;
+}
+
+.page {
+  padding: 0 30px 0 30px;
+  color: black;
+}
+
+.into {
+  font-size: 40px;
+  margin-top: 20px;
+}
+
+.box {
+  border: 0.5px solid black;
+  margin-bottom: 20px;
+  /*height: 200px;*/
+}
+
+.title {
+  font-size: 24px;
+  background-color: #dd5454;
+  color: white;
+  padding: 10px 10px 10px 10px;
+}
+
+.content {
+  font-size: 20px;
+  padding: 10px 16px 10px 16px;
+}
+
+.item {
+  margin-bottom: 10px;
+}
+
+.custom-button {
+  background-color: #dd5454;
+  color: white;
+  margin-top: 15px;
+  margin-bottom: 30px;
+  padding: 10px 0 10px 0 !important;
+}
+
+.custom-button:hover {
+  color: white;
+  background-color: #d67373;
+}
+
+.next-step {
+  background-color: #dd5454;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.box-in-content {
+  background-color: #dd5454;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.height-box {
+  height: 240px;
+}
+/**/

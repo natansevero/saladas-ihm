@@ -1,0 +1,19 @@
+{
+  "name": "prototipo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "server": "gulp",
+    "bower": "bower install"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "bower": "^1.8.0"
+  }
+}
